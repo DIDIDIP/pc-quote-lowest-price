@@ -102,7 +102,7 @@ venv/Scripts/python -m pip install beautifulsoup4     # 스크립트가 요구�
 venv/Scripts/python k-skill/danawa-price-search/scripts/danawa_search.py search "RTX 5060" --limit 5
 ```
 
-> 💡 2주차 1교시 노트와 같은 교훈입니다. **자동 도구가 안 되면, 도구가 실제로 하는 일을 직접 하면 됩니다.**
+> 💡 지난 실습(2026-10-12, k-skill 설치) 노트와 같은 교훈입니다. **자동 도구가 안 되면, 도구가 실제로 하는 일을 직접 하면 됩니다.**
 
 ### 2-3. ⚠️ 문제 2: 한글이 깨진다
 
